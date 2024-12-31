@@ -1,0 +1,36 @@
+WhatsApp Chat Analysis:
+
+1. Create a Notebook --> Test with the datasets
+2. Create a requirements file and add all the dependencies
+3. Run the requirements file --. pip install -r requirements.txt
+4. Preprocessor file --> It will take the data and return a DataFrame / Pre-process the data
+5. To run streamlit --> streamlit run app.py
+6. Helper file --> Helps the app.py file with functions for the analysis section from the practice file
+7. app.py --> main file
+
+Deployment --> Procfile + Setup.sh file
+
+Regex, short for “regular expression,” is a powerful text-searching tool capable of searching for and matching patterns in structured or unstructured data.
+WordCloud --> A word cloud is a visual representation (image) of word data. In other words, it is a collection, or cluster, of words depicted in different sizes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
